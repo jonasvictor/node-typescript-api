@@ -1,0 +1,29 @@
+[{
+    "swellDirection": 97.45,
+    "swellHeight": 0.33,
+    "swellPeriod": 3.55,
+    "time": "2020-06-04T05:00:00+00:00",
+    "waveDirection": 73.33,
+    "waveHeight": 0.37,
+    "windDirection": 66.07,
+    "windSpeed": 3.32
+  }, {
+  "swellDirection": 101.61,
+  "swellHeight": 0.35,
+  "swellPeriod": 3.62,
+  "time": "2020-06-04T06:00:00+00:00",
+  "waveDirection": 73.43,
+  "waveHeight": 0.39,
+  "windDirection": 71.99,
+  "windSpeed": 3.35
+  }, {
+  "swellDirection": 105.77,
+  "swellHeight": 0.38,
+  "swellPeriod": 3.68,
+  "time": "2020-06-04T07:00:00+00:00",
+  "waveDirection": 71.33,
+  "waveHeight": 0.39,
+  "windDirection": 75.95,
+  "windSpeed": 3.95
+  }]
+  
